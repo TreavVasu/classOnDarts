@@ -47,3 +47,20 @@ class SelfDrivingCar extends Car {
     print('sterring towards $destination');
   } 
 }
+
+
+
+
+//Easy thing 
+
+/*
+Constructor here are easy
+Human(this.height,this.age);
+eqv to 
+
+Human(double height ,double age){
+  this.height=height;
+  this.age=age;
+}
+
+*/
